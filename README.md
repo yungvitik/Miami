@@ -1,4 +1,4 @@
-- [Figma mockup](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3)
 - [Preview](https://yungvitik.github.io/Miami/)
-- Stack: HTML, SASS, JS
+- [Figma mockup](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3)
 - Full responsive layout was made by using CSS Grid and Flexbox
+- Stack: HTML, SASS, JS
